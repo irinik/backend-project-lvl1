@@ -1,0 +1,30 @@
+{
+  "name": "backend-project-lvl1",
+  "version": "1.0.0",
+  "description": "brain-games project",
+  "main": "",
+  "bin": {
+    "brain-games": "./src/bin/brain-games.js"
+  },
+  "keywords": [
+    "brain-games"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irinik/backend-project-lvl1.git"
+  },
+  "author": "irina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irinik/backend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/irinik/backend-project-lvl1#readme",
+  "dependencies": {
+    "npm": "^6.11.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
