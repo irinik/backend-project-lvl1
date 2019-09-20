@@ -1,6 +1,6 @@
 {
   "name": "proba-pera123",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "dist/brain-games.js",
   "bin": {
@@ -27,7 +27,8 @@
   },
   "homepage": "https://github.com/irinik/backend-project-lvl1#readme",
   "dependencies": {
-    "npm": "^6.11.3"
+    "npm": "^6.11.3",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.0",
