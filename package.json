@@ -27,6 +27,9 @@
   },
   "homepage": "https://github.com/irinik/backend-project-lvl1#readme",
   "dependencies": {
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-import": "^2.18.2",
     "npm": "^6.11.3",
     "readline-sync": "^1.4.10"
   },
@@ -35,6 +38,8 @@
     "@babel/core": "^7.6.0",
     "@babel/node": "^7.6.1",
     "@babel/plugin-proposal-pipeline-operator": "^7.5.0",
-    "@babel/preset-env": "^7.6.0"
+    "@babel/preset-env": "^7.6.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.4.0"
   }
 }

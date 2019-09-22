@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-import index from '..';
+import userName from '..';
+
+console.log(`Hi, ${userName}!`);
