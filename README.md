@@ -8,4 +8,4 @@ Project Brain Games is my learning JavaScript
 
 The game brain-even:
 
-<script id="asciicast-271636" src="https://asciinema.org/a/271636.js" async></script>
+<a href="https://asciinema.org/a/271636" target="_blank"><img src="https://asciinema.org/a/271636.svg" /></a>
