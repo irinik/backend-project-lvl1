@@ -6,4 +6,7 @@
 
 Project Brain Games is my learning JavaScript
 
+The game brain-even:
 
+
+<a href="https://asciinema.org/a/WrMeZZKsl8LvugAqpJP1VbNa5" target="_blank"><img src="https://asciinema.org/a/WrMeZZKsl8LvugAqpJP1VbNa5.svg" /></a>
